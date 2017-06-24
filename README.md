@@ -1,2 +1,2 @@
-# jbp-website
-Here goes most of the source code of my personal website.
+# jbp-website/en
+This is the branch that contains the source code to the English locale of my website.
